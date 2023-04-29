@@ -33,5 +33,3 @@ XCCY_AUD_USD	XccyBasis.AUD.BBSW3M-USD.LIBOR3M.40Y	2020-03-26	40Y       	-0.00088
 
 References:
 https://finpricing.com/lib/EqAsian.html
-
-https://bitbucket.org/cmrm11/xccybasis/downloads/IrXccyBasisCurve-14.pdf
